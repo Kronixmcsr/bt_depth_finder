@@ -1,0 +1,1 @@
+matplotlib   # optional, only for the PNG histogram
